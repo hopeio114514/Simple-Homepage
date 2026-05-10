@@ -1,0 +1,13 @@
+{
+  "name": "hopeio",
+  "age": "18",
+  "zodiac": "天蝎座♏",
+  "avatarUrl": "https://pic1.imgdb.cn/item/6a001dc8b38680b5f55c9721.jpg",
+  "emjoi": "( ⩌⤚⩌)",
+  "infoTags": {
+    "sex": "男",
+    "school": "不告诉你嘿嘿",
+    "province": "江苏省"
+  },
+  "professions": ["学生", "爱玩MC", "会睡觉"]
+}
